@@ -1,12 +1,15 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
 }
-
-.header{
-    border: #000000 1px solid;
+header{
+    margin: 40px 40px;
+    background-color: #4e4ed4;
+    text-align: center;
+    padding: 40px;
+    font-size: 30px;
 }
-.header h1{
-    font-size: 24px;
+.cabecera{
+    padding: 3px;
 }
 .container{
     border: #000000 1px solid;
@@ -14,8 +17,10 @@
 }
 .titulo{
     font-size: 20px;
+    padding: 10px;
 }
 p{
     font-size: 18px;
     text-align: justify;
+    padding: 10px;
 }
